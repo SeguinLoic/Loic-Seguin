@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          There's no place like loic-seguin.fr in the world !
+          There&apos;s no place like loic-seguin.fr in the world !
         </h1>
       </main>
     </div>
